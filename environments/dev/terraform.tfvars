@@ -36,6 +36,9 @@ vms_details = {
     nic_name="vm-nic1"
     location="centralindia"
     vm_name="Frontendvm"
+    kv_name="Rakeshkvkeys"
+    kv_username="rakeshusername"
+    kv_password="rakeshpassword"
   }
     vm2={
     subnet_name="Backendsubnet"
@@ -43,6 +46,9 @@ vms_details = {
     virtual_network_name="dev-vnet"
     nic_name="vm-nic2"
     location="centralindia"
-    vm_name="Backendvm"    
+    vm_name="Backendvm"
+    kv_name="Rakeshkvkeys"
+    kv_username="ankitausername"
+    kv_password="ankitapassword"
   }
 }
